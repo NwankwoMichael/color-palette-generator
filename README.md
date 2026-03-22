@@ -1,5 +1,7 @@
 # 🎨 Color Palette Generator
 
+[![Deploy](https://github.com/NwankwoMichael/color-palette-generator/actions/workflows/deploy.yml/badge.svg)](https://NwankwoMichael.github.io/color-palette-generator/)
+
 A sleek and intuitive web app built with **Vite + Vanilla JS** that helps designers, developers, and creatives generate beautiful color palettes. Enter a base hex color and instantly explore tints, shades, and harmonies — all with smooth interactions and a friendly empty state when no palettes exist.
 
 ## ✨ Features
