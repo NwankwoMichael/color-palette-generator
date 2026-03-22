@@ -306,5 +306,3 @@ export const loadPaletteModel = function () {
     return null;
   }
 };
-
-// localStorage.clear();
