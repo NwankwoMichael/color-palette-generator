@@ -21,7 +21,7 @@ A sleek and intuitive web app built with **Vite + Vanilla JS** that helps design
 ## 🌐 Live Demo
 
 Check out the hosted version here:  
-[color palette generator](https://<your-username>.github.io/color-palette-generator/)
+[color palette generator](https://nwankwomichael.github.io/color-palette-generator/)
 
 🛠 Tech Stack
 Vite for fast bundling
