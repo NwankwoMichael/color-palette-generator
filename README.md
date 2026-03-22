@@ -14,14 +14,14 @@ A sleek and intuitive web app built with **Vite + Vanilla JS** that helps design
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/color-palette-generator.git
+   git clone https://github.com/NwankwoMichael/color-palette-generator.git
    npm install
    ```
 
 ## 🌐 Live Demo
 
 Check out the hosted version here:  
-[Expense Tracker Live]()
+[color palette generator](https://<your-username>.github.io/color-palette-generator/)
 
 🛠 Tech Stack
 Vite for fast bundling
